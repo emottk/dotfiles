@@ -1,0 +1,12 @@
+"*":
+  "exception-reporting":
+    userId: "08c46211-cbb7-ad9c-7913-67ed97252c7d"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+
+  ".source.python":
+    editor:
+      tabLength: 4
