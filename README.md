@@ -1,6 +1,6 @@
 # dotfiles
 
-This is a set of personal dotfiles for Bash and Atom.
+This is a set of personal dotfiles for Bash and Atom, to be used on any computer.
 
 
 ### Bash
