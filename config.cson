@@ -6,7 +6,11 @@
   core: {}
   editor:
     invisibles: {}
-
-  ".source.python":
-    editor:
-      tabLength: 4
+  "linter-pylint":
+    executable: "/usr/local/bin/pylint"
+".python.regexp.source":
+  editor:
+    preferredLineLength: 12
+".python.source":
+  editor:
+    preferredLineLength: 120
