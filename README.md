@@ -5,7 +5,9 @@ This is a test
 *This is italicized*
 
 www.google.com
+
 [But Also Inline Link](www.google.com)
+
 ~~Crossed out~~
 
 ```
