@@ -46,6 +46,8 @@ This is a new paragraph example: Alme Sol, curru nitido diem qui promis et celas
 4. numbered
 5. list
 
+- more
+- unordered
 
 1. List
   - within
@@ -57,3 +59,5 @@ This is a new paragraph example: Alme Sol, curru nitido diem qui promis et celas
   3. in
   4. a
   5. list
+
+`**backticks stop formatting**`
