@@ -3,82 +3,10 @@
 This is a set of personal dotfiles for Bash and Atom.
 
 
-## Bash
+### Bash
 
 .bash_profile specifies the PATH used, as well as enabling the **virtualenv** tool which creates individual and isolated Python environments for web development. More information on virtualenv [here](https://virtualenv.readthedocs.org/en/latest/).
 
-## Atom
+### Atom
 
 config.cson holds specific preferences for the text editor Atom, including modifications for working in Python.
-
-
-
-
-
-This is a test
-
-*This is italicized*
-
-www.google.com
-
-[But Also Inline Link](www.google.com)
-
-~~Crossed out~~
-
-```
-function example()
-```
-
-```python
-for x in range(0,3):
-print "python grammar example."
-```
-
-
-
-|Title1 | Title2|
-|:-------:|-------:|
-|1      |2      |
-|**bold 1**|*ital 2*|
-
-This is a paragraph example: Phoebe silvarumque potens Diana, lucidum caeli decus, o colendi semper et culti, date quae precamur tempore sacro, quo Sibyllini monuere versus virgines lectas puerosque castos dis, quibus septem placuere colles, dicere carmen.
-
-This is a new paragraph example: Alme Sol, curru nitido diem qui promis et celas aliusque et idem nasceris, possis nihil urbe Roma visere maius. Rite maturos aperire partus lenis, Ilithyia, tuere matres, sive tu Lucina probas vocari seu Genitalis:
-
-# largest heading
-## second largest
-### third
-###### so on
-
-
-
-> This is a block quote by **Emily Kowal**
-
-- This
-- Is
-- An
-- Unordered
-- list
-
-
-1. This
-2. is
-3. a
-4. numbered
-5. list
-
-- more
-- unordered
-
-1. List
-  - within
-  - a
-  - list
-2. Also
-  1. numbered
-  2. list
-  3. in
-  4. a
-  5. list
-
-`**backticks stop formatting**`
