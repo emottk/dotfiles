@@ -31,29 +31,29 @@ This is a new paragraph example: Alme Sol, curru nitido diem qui promis et celas
 ### third
 ###### so on
 
-> This is a quote by **Emily Kowal**
+> This is a block quote by **Emily Kowal**
 
 - This
 - Is
 - An
 - Unordered
-- List
+- list
 
 
 1. This
 2. is
 3. a
 4. numbered
-5. List
+5. list
+
 
 1. List
   - within
   - a
-  - List
+  - list
 2. Also
   1. numbered
-  2. List
+  2. list
   3. in
   4. a
-  5. List
-  
+  5. list
