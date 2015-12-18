@@ -5,7 +5,7 @@ This is a test
 *This is italicized*
 
 www.google.com
-
+[But Also Inline Link](www.google.com)
 ~~Crossed out~~
 
 ```
@@ -16,6 +16,8 @@ function example()
 for x in range(0,3):
 print "python grammar example."
 ```
+
+
 
 |Title1 | Title2|
 |:-------:|-------:|
@@ -30,6 +32,8 @@ This is a new paragraph example: Alme Sol, curru nitido diem qui promis et celas
 ## second largest
 ### third
 ###### so on
+
+
 
 > This is a block quote by **Emily Kowal**
 
