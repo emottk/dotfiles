@@ -4,18 +4,18 @@ This is a test
 
 *This is italicized*
 
-google.com
+www.google.com
 
 ~~Crossed out~~
 
-'''
+```
 function example()
-'''
+```
 
-'''python
+```python
 for x in range(0,3):
 print "example."
-'''
+```
 
 |Title1 | Title2|
 |:-------:|-------:|
