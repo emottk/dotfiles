@@ -10,6 +10,8 @@
     executable: "/usr/local/bin/pylint"
   "markdown-preview":
     useGitHubStyle: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
 ".python.regexp.source":
   editor:
     preferredLineLength: 12

@@ -1,0 +1,10 @@
+[user]
+	name = emottk
+	email = emily.kowal@postlight.com
+[core]
+	editor = atom --wait
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status

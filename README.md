@@ -11,6 +11,7 @@ git clone git@github.com:emottk/dotfiles.git
 ln -s ~/workspace/dotfiles/.bash_profile ~
 ln -s ~/workspace/dotfiles/config.cson ~/.atom/
 ln -s ~/workspace/dotfiles/.pylintrc ~
+ln -s ~/workspace/dotfiles/.gitconfig ~
 ```
 
 ### Bash
