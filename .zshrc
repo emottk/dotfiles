@@ -147,3 +147,8 @@ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 echo -e "\033]6;1;bg;red;brightness;18\a"
 echo -e "\033]6;1;bg;green;brightness;26\a"
 echo -e "\033]6;1;bg;blue;brightness;20\a"
+# heroku autocomplete setup
+HEROKU_AC_ZSH_SETUP_PATH=/Users/emottk/Library/Caches/heroku/autocomplete/zsh_setup && test -f $HEROKU_AC_ZSH_SETUP_PATH && source $HEROKU_AC_ZSH_SETUP_PATH;
+export PATH="/usr/local/opt/ruby/bin:$PATH"
+eval "$(rbenv init -)"
+eval "$(rbenv init -)"
